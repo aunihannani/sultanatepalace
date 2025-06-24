@@ -1,0 +1,24 @@
+{
+ "name": "Museum Sultanate Palace Malacca",
+ "theme_color": "#CCCCCC",
+ "icons": [
+  {
+   "type": "image/png",
+   "sizes": "512x512",
+   "src": "icons/icon512.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "192x192",
+   "src": "icons/icon192.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "64x64",
+   "src": "icons/icon64.png"
+  }
+ ],
+ "background_color": "#CCCCCC",
+ "start_url": "index.htm?installed=true",
+ "display": "fullscreen"
+}
